@@ -9,7 +9,7 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
  
 * Click [here](https://public.tableau.com/views/citibikeanalysis_1/Bikecondition?:embed=y&:display_count=yes&publish=yes) to view completed dashboard
 
-![alt text](https://github.com/JNeuda/Tableau-Dashboard-Citibike/blob/master/image/Bike%20condition.png
+![alt text](https://github.com/JNeuda/Tableau-Dashboard-Citibike/blob/master/image/Bike%20condition.png)
 
 ![alt text](https://github.com/JNeuda/Tableau-Dashboard-Citibike/blob/master/image/Gender%20%26%20Age.png)
 
